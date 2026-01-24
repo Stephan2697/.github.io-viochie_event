@@ -177,7 +177,7 @@ transition: all 0.3s ease;
 
 .hero {
 height: 100vh;
-background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1519167534503-3efca0b33898?w=1200&h=800&fit=crop');
+background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/my_image4.jpg');
 background-size: cover;
 background-position: center;
 color: white;
