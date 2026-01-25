@@ -1,4 +1,4 @@
-# Viochie Events - Wilfred Ochia's Portfolio Project
+# Viochie Events - Professional Event Planning WebApp Project
 
 ## 🎯 Project Overview
 
